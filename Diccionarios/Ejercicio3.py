@@ -29,5 +29,5 @@ while estado:
     except ValueError:
         print("Error en la aplicación.")
     finally:
-        print("Gracias por usar la app")
+        print("Gracias por usar la app.")
              
